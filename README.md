@@ -6,9 +6,10 @@ Create a MySQL DB to experiment basics concepts such as:
 ...
 
 ## Files in my repository:
-- schema_testdb.sql = the schema file for my DB structure.
-- data_testdb.sql = the data file for my DB data loading and table manipulations.
-- Exercie MySQL DB June 17th 2019.docx = questions and answers to go throught the exercices. 
+- schema_testdb.sql = the schema file for my DB structure
+- data_testdb.sql = the data file for my DB data loading and table manipulations
+- Exercie MySQL DB June 17th 2019.docx = questions and answers to go throught the exercices
+- testdb_dump.sql : a dump of DB testdb
 
 ### Prerequisites
 - MySQL or any other compatible RDBMS
@@ -26,4 +27,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Author
 MESSOUS Kada
-(Datartisan At Simplon.co)
+(Datartisan at Simplon.co)
