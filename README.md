@@ -11,7 +11,8 @@ Create a MySQL DB to experiment basics concepts such as:
 - Exercie MySQL DB June 17th 2019.docx = questions and answers to go throught the exercices. 
 
 ### Prerequisites
-MySQL or any other compatible RDBMS.
+- MySQL or any other compatible RDBMS
+- A text editor such as Sublime Text or Notepad++
 
 ### To re-created the testdb DB:
 Download the schema and data files then run the following command from within your MySQL console:
