@@ -25,5 +25,5 @@ Then go through the exercices contained within the file "Exercie MySQL DB June 1
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Author
-*MESSOUS Kada
+MESSOUS Kada
 (Datartisan At Simplon.co)
